@@ -5,8 +5,4 @@ This is a test
 
 test head
 
-这是要冲突的啊
-
-这是要冲突的啊
-
-这是要冲突的东西啊
+这是new分支上的东西
